@@ -1,0 +1,5 @@
+[
+  {"name": "Table","price": 100, "quantity":1, "expected_result":100},
+  {"name": "Chair","price": 50, "quantity":4, "expected_result":200},
+  {"name": "Lamp","price": 30, "quantity":2, "expected_result":60}
+]
